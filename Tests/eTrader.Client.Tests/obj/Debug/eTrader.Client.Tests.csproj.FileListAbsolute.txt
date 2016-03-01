@@ -1,0 +1,16 @@
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\eTrader.Client.Tests\bin\Debug\eTrader.Client.Tests.dll
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\eTrader.Client.Tests\bin\Debug\eTrader.Client.Tests.pdb
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\eTrader.Client.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\eTrader.Client.Tests\obj\Debug\eTrader.Client.Tests.csprojResolveAssemblyReference.cache
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\eTrader.Client.Tests\obj\Debug\eTrader.Client.Tests.dll
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\eTrader.Client.Tests\obj\Debug\eTrader.Client.Tests.pdb
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Tests\eTrader.Client.Tests\bin\Debug\eTrader.Client.Tests.dll
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Tests\eTrader.Client.Tests\bin\Debug\eTrader.Client.Tests.pdb
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Tests\eTrader.Client.Tests\bin\Debug\eTrader.Client.exe
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Tests\eTrader.Client.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Tests\eTrader.Client.Tests\bin\Debug\eTrader.Windows.dll
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Tests\eTrader.Client.Tests\bin\Debug\eTrader.Client.pdb
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Tests\eTrader.Client.Tests\bin\Debug\eTrader.Windows.pdb
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Tests\eTrader.Client.Tests\obj\Debug\eTrader.Client.Tests.csprojResolveAssemblyReference.cache
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Tests\eTrader.Client.Tests\obj\Debug\eTrader.Client.Tests.dll
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Tests\eTrader.Client.Tests\obj\Debug\eTrader.Client.Tests.pdb

@@ -1,0 +1,10 @@
+c:\Users\mantonijevic\documents\visual studio 2015\Projects\eTrader.Client\eTrader.Windows\bin\Debug\eTrader.Windows.dll
+c:\Users\mantonijevic\documents\visual studio 2015\Projects\eTrader.Client\eTrader.Windows\bin\Debug\eTrader.Windows.pdb
+c:\Users\mantonijevic\documents\visual studio 2015\Projects\eTrader.Client\eTrader.Windows\obj\Debug\eTrader.Windows.dll
+c:\Users\mantonijevic\documents\visual studio 2015\Projects\eTrader.Client\eTrader.Windows\obj\Debug\eTrader.Windows.pdb
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Desktop client\eTrader.Windows\bin\Debug\eTrader.Windows.dll
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Desktop client\eTrader.Windows\bin\Debug\eTrader.Windows.pdb
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Desktop client\eTrader.Windows\obj\Debug\eTrader.Windows.dll
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Desktop client\eTrader.Windows\obj\Debug\eTrader.Windows.pdb
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Build\eTrader.Windows.dll
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Build\eTrader.Windows.pdb

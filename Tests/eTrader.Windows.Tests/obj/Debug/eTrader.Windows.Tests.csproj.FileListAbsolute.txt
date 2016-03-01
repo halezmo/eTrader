@@ -1,0 +1,14 @@
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\eTrader.Windows.Tests\bin\Debug\eTrader.Windows.Tests.dll
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\eTrader.Windows.Tests\bin\Debug\eTrader.Windows.Tests.pdb
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\eTrader.Windows.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\eTrader.Windows.Tests\obj\Debug\eTrader.Windows.Tests.csprojResolveAssemblyReference.cache
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\eTrader.Windows.Tests\obj\Debug\eTrader.Windows.Tests.dll
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\eTrader.Windows.Tests\obj\Debug\eTrader.Windows.Tests.pdb
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Tests\eTrader.Windows.Tests\bin\Debug\eTrader.Windows.Tests.dll
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Tests\eTrader.Windows.Tests\bin\Debug\eTrader.Windows.Tests.pdb
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Tests\eTrader.Windows.Tests\bin\Debug\eTrader.Windows.dll
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Tests\eTrader.Windows.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Tests\eTrader.Windows.Tests\bin\Debug\eTrader.Windows.pdb
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Tests\eTrader.Windows.Tests\obj\Debug\eTrader.Windows.Tests.csprojResolveAssemblyReference.cache
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Tests\eTrader.Windows.Tests\obj\Debug\eTrader.Windows.Tests.dll
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Tests\eTrader.Windows.Tests\obj\Debug\eTrader.Windows.Tests.pdb

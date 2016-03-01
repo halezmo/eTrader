@@ -1,0 +1,36 @@
+c:\users\mantonijevic\documents\visual studio 2015\Projects\eTrader.Client\eTrader.Client\bin\Debug\eTrader.Client.exe.config
+c:\users\mantonijevic\documents\visual studio 2015\Projects\eTrader.Client\eTrader.Client\bin\Debug\eTrader.Client.exe
+c:\users\mantonijevic\documents\visual studio 2015\Projects\eTrader.Client\eTrader.Client\bin\Debug\eTrader.Client.pdb
+c:\users\mantonijevic\documents\visual studio 2015\Projects\eTrader.Client\eTrader.Client\obj\Debug\Views\MainWindow.g.cs
+c:\users\mantonijevic\documents\visual studio 2015\Projects\eTrader.Client\eTrader.Client\obj\Debug\App.g.cs
+c:\users\mantonijevic\documents\visual studio 2015\Projects\eTrader.Client\eTrader.Client\obj\Debug\eTrader.Client_MarkupCompile.cache
+c:\users\mantonijevic\documents\visual studio 2015\Projects\eTrader.Client\eTrader.Client\obj\Debug\eTrader.Client_MarkupCompile.lref
+c:\users\mantonijevic\documents\visual studio 2015\Projects\eTrader.Client\eTrader.Client\obj\Debug\Views\MainWindow.baml
+c:\users\mantonijevic\documents\visual studio 2015\Projects\eTrader.Client\eTrader.Client\obj\Debug\eTrader.Client.g.resources
+c:\users\mantonijevic\documents\visual studio 2015\Projects\eTrader.Client\eTrader.Client\obj\Debug\eTrader.Client.Properties.Resources.resources
+c:\users\mantonijevic\documents\visual studio 2015\Projects\eTrader.Client\eTrader.Client\obj\Debug\eTrader.Client.csproj.GenerateResource.Cache
+c:\users\mantonijevic\documents\visual studio 2015\Projects\eTrader.Client\eTrader.Client\obj\Debug\eTrader.Client.exe
+c:\users\mantonijevic\documents\visual studio 2015\Projects\eTrader.Client\eTrader.Client\obj\Debug\eTrader.Client.pdb
+c:\users\mantonijevic\documents\visual studio 2015\Projects\eTrader.Client\eTrader.Client\obj\Debug\eTrader.Client.csprojResolveAssemblyReference.cache
+c:\users\mantonijevic\documents\visual studio 2015\Projects\eTrader.Client\eTrader.Client\bin\Debug\eTrader.Windows.dll
+c:\users\mantonijevic\documents\visual studio 2015\Projects\eTrader.Client\eTrader.Client\bin\Debug\eTrader.Windows.pdb
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Desktop client\eTrader.Client\bin\Debug\eTrader.Client.exe.config
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Desktop client\eTrader.Client\bin\Debug\eTrader.Client.exe
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Desktop client\eTrader.Client\bin\Debug\eTrader.Client.pdb
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Desktop client\eTrader.Client\bin\Debug\eTrader.Windows.dll
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Desktop client\eTrader.Client\bin\Debug\eTrader.Windows.pdb
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Desktop client\eTrader.Client\obj\Debug\eTrader.Client.csprojResolveAssemblyReference.cache
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Desktop client\eTrader.Client\obj\Debug\Views\MainWindow.g.cs
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Desktop client\eTrader.Client\obj\Debug\App.g.cs
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Desktop client\eTrader.Client\obj\Debug\eTrader.Client_MarkupCompile.cache
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Desktop client\eTrader.Client\obj\Debug\eTrader.Client_MarkupCompile.lref
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Desktop client\eTrader.Client\obj\Debug\Views\MainWindow.baml
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Desktop client\eTrader.Client\obj\Debug\eTrader.Client.g.resources
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Desktop client\eTrader.Client\obj\Debug\eTrader.Client.Properties.Resources.resources
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Desktop client\eTrader.Client\obj\Debug\eTrader.Client.csproj.GenerateResource.Cache
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Desktop client\eTrader.Client\obj\Debug\eTrader.Client.exe
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Desktop client\eTrader.Client\obj\Debug\eTrader.Client.pdb
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Build\eTrader.Client.exe.config
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Build\eTrader.Client.exe
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Build\eTrader.Client.pdb
+C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader\Code\Build\eTrader.Client.exe.config
