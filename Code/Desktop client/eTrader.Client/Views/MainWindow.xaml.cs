@@ -1,4 +1,5 @@
-﻿using System;
+﻿using eTrader.Client.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,6 +24,15 @@ namespace eTrader.Client.Views
         public MainWindow()
         {
             InitializeComponent();
+            txtPassword.PasswordChanged += TxtPassword_PasswordChanged;
+        }
+
+        private void TxtPassword_PasswordChanged(object sender, RoutedEventArgs e)
+        {
+            if(DataContext != null)
+            {
+                (DataContext as LoginViewModel).Password = (sender as PasswordBox).Password;
+            }
         }
     }
 }
