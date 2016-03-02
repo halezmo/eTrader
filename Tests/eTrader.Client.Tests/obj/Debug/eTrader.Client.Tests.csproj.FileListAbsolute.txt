@@ -14,3 +14,17 @@ C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Tests
 C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Tests\eTrader.Client.Tests\obj\Debug\eTrader.Client.Tests.csprojResolveAssemblyReference.cache
 C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Tests\eTrader.Client.Tests\obj\Debug\eTrader.Client.Tests.dll
 C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Tests\eTrader.Client.Tests\obj\Debug\eTrader.Client.Tests.pdb
+C:\projects\eTrader\eTrader\Tests\eTrader.Client.Tests\bin\Debug\eTrader.Client.Tests.dll
+C:\projects\eTrader\eTrader\Tests\eTrader.Client.Tests\bin\Debug\eTrader.Client.Tests.pdb
+C:\projects\eTrader\eTrader\Tests\eTrader.Client.Tests\bin\Debug\eTrader.Client.exe
+C:\projects\eTrader\eTrader\Tests\eTrader.Client.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\projects\eTrader\eTrader\Tests\eTrader.Client.Tests\bin\Debug\eTrader.Windows.dll
+C:\projects\eTrader\eTrader\Tests\eTrader.Client.Tests\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+C:\projects\eTrader\eTrader\Tests\eTrader.Client.Tests\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+C:\projects\eTrader\eTrader\Tests\eTrader.Client.Tests\bin\Debug\eTrader.Client.pdb
+C:\projects\eTrader\eTrader\Tests\eTrader.Client.Tests\bin\Debug\eTrader.Windows.pdb
+C:\projects\eTrader\eTrader\Tests\eTrader.Client.Tests\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+C:\projects\eTrader\eTrader\Tests\eTrader.Client.Tests\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+C:\projects\eTrader\eTrader\Tests\eTrader.Client.Tests\obj\Debug\eTrader.Client.Tests.csprojResolveAssemblyReference.cache
+C:\projects\eTrader\eTrader\Tests\eTrader.Client.Tests\obj\Debug\eTrader.Client.Tests.dll
+C:\projects\eTrader\eTrader\Tests\eTrader.Client.Tests\obj\Debug\eTrader.Client.Tests.pdb

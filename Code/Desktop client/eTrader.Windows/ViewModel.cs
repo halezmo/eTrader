@@ -1,9 +1,8 @@
 ﻿using System;
+using System.Linq;
 using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
-using System.Text;
-using System.Linq;
 
 namespace eTrader.Windows
 {
@@ -29,7 +28,6 @@ namespace eTrader.Windows
                 return OnValidate(propertyName);
             }
         }
-
         
         public string Error
         {
@@ -50,7 +48,6 @@ namespace eTrader.Windows
             }
         }
         
-
         protected virtual string OnValidate(string propertyName)
         {
             var context = new ValidationContext(this) { MemberName = propertyName };
@@ -58,7 +55,11 @@ namespace eTrader.Windows
             var results = new Collection<ValidationResult>();
             var isValid = Validator.TryValidateObject(this, context, results, true);
 
-            return !isValid ? results[0].ErrorMessage : null;
+            var property = results.Where(r => r.MemberNames != null && r.MemberNames.Any(t => t == propertyName));
+
+            var propertyValid = !property.Any();
+
+            return !propertyValid ? property.FirstOrDefault().ErrorMessage : null;
         }
     }
 }

@@ -12,3 +12,11 @@ C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Tests
 C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Tests\eTrader.Windows.Tests\obj\Debug\eTrader.Windows.Tests.csprojResolveAssemblyReference.cache
 C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Tests\eTrader.Windows.Tests\obj\Debug\eTrader.Windows.Tests.dll
 C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Tests\eTrader.Windows.Tests\obj\Debug\eTrader.Windows.Tests.pdb
+C:\projects\eTrader\eTrader\Tests\eTrader.Windows.Tests\bin\Debug\eTrader.Windows.Tests.dll
+C:\projects\eTrader\eTrader\Tests\eTrader.Windows.Tests\bin\Debug\eTrader.Windows.Tests.pdb
+C:\projects\eTrader\eTrader\Tests\eTrader.Windows.Tests\bin\Debug\eTrader.Windows.dll
+C:\projects\eTrader\eTrader\Tests\eTrader.Windows.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\projects\eTrader\eTrader\Tests\eTrader.Windows.Tests\bin\Debug\eTrader.Windows.pdb
+C:\projects\eTrader\eTrader\Tests\eTrader.Windows.Tests\obj\Debug\eTrader.Windows.Tests.csprojResolveAssemblyReference.cache
+C:\projects\eTrader\eTrader\Tests\eTrader.Windows.Tests\obj\Debug\eTrader.Windows.Tests.dll
+C:\projects\eTrader\eTrader\Tests\eTrader.Windows.Tests\obj\Debug\eTrader.Windows.Tests.pdb

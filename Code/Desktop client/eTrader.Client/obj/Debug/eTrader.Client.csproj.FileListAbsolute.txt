@@ -48,3 +48,5 @@ C:\projects\eTrader\eTrader\Code\Desktop client\eTrader.Client\obj\Debug\eTrader
 C:\projects\eTrader\eTrader\Code\Desktop client\eTrader.Client\obj\Debug\eTrader.Client.csproj.GenerateResource.Cache
 C:\projects\eTrader\eTrader\Code\Desktop client\eTrader.Client\obj\Debug\eTrader.Client.exe
 C:\projects\eTrader\eTrader\Code\Desktop client\eTrader.Client\obj\Debug\eTrader.Client.pdb
+C:\projects\eTrader\eTrader\Code\Desktop client\eTrader.Client\obj\Debug\App.baml
+C:\projects\eTrader\eTrader\Code\Desktop client\eTrader.Client\obj\Debug\GeneratedInternalTypeHelper.g.cs

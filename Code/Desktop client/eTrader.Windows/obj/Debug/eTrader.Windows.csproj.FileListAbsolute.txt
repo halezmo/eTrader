@@ -10,6 +10,5 @@ C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Build
 C:\Users\mantonijevic\Documents\Visual Studio 2015\Projects\eTrader.Client\Build\eTrader.Windows.pdb
 C:\projects\eTrader\eTrader\Build\eTrader.Windows.dll
 C:\projects\eTrader\eTrader\Build\eTrader.Windows.pdb
-C:\projects\eTrader\eTrader\Code\Desktop client\eTrader.Windows\obj\Debug\eTrader.Windows.csprojResolveAssemblyReference.cache
 C:\projects\eTrader\eTrader\Code\Desktop client\eTrader.Windows\obj\Debug\eTrader.Windows.dll
 C:\projects\eTrader\eTrader\Code\Desktop client\eTrader.Windows\obj\Debug\eTrader.Windows.pdb

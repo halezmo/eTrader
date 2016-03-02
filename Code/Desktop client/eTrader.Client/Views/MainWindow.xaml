@@ -9,11 +9,11 @@
         d:DataContext="{d:DesignInstance viewModels:LoginViewModel}"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <StackPanel>
+        <StackPanel HorizontalAlignment="Left">
             <Label>Username</Label>
-        <TextBox Text="{Binding Username, ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged}"/>
+            <TextBox Width="150" Text="{Binding Username, ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged}"/>
             <Label>Password</Label>
-            <PasswordBox Name="txtPassword"/>
+            <PasswordBox local:PasswordHelper.Attach="True" local:PasswordHelper.Password="{Binding Password, Mode=TwoWay, ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged}" Width="150"/>
             <Button Command="{Binding LoginCommand}">Login</Button>
         </StackPanel>
     </Grid>
